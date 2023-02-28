@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GaganpreetKaur16
+- 👋 Hi, My name is Gaganpreet. 
 - 👀 I’m interested in data analytics and science.
 - 🌱 I’m currently learning data visualisation techniques
 - 💞️ I’m looking to collaborate on any data analytics challange with visualisation
